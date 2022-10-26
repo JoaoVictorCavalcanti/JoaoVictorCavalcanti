@@ -39,12 +39,15 @@ Hello everyone, welcome to my GitHub 👋
 ![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117?style=for-the-badge&logo=sublime-text&logoColor=orange)&nbsp;
 
 ### Studying in this moment:
-![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
+![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
+![C++](https://img.shields.io/badge/c++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue)&nbsp;
+![C#](https://img.shields.io/badge/c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=purple)&nbsp;
+![Php](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
 
 
 
