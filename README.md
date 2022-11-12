@@ -21,7 +21,6 @@
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=Eclipse&labelColor=0D1117)&nbsp;
-![Pycharm](https://img.shields.io/badge/PyCharm-0D1117?&style=for-the-badge&logo=PyCharm&logoColor=green)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117?style=for-the-badge&logo=sublime-text&logoColor=orange)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
@@ -32,8 +31,9 @@
 
 ### Other Knowledge:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![Git-Hub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&Color=purple)&nbsp;
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=green)&nbsp;
+
 
 ### Studying in this moment:
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
