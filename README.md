@@ -20,7 +20,6 @@
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=Eclipse&labelColor=0D1117)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117?style=for-the-badge&logo=sublime-text&logoColor=orange)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
@@ -32,7 +31,6 @@
 ### Other Knowledge:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
 ![Git-Hub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&Color=purple)&nbsp;
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=green)&nbsp;
 
 
 ### Studying in this moment:
@@ -42,11 +40,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![Php](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
-![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
-![C++](https://img.shields.io/badge/c++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue)&nbsp;
-![C#](https://img.shields.io/badge/c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=purple)&nbsp;
-![Ruby](https://img.shields.io/badge/Ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
 
 
 
