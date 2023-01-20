@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8200fd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Joao+Victor+Cavalcanti;I'm+19+years+old;I'm+from+Brasil;I+study+Information+Systems+at+Uninassau;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img height="150em" width="380" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCavalcanti&show_icons=true&count_private=true&hide_border=true&title_color=8204f8&icon_color=ff0101&text_color=50d416&bg_color=0d1117" alt="JoaoVictorCavalcanti github stats" /> 
-  <img height="150em" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCavalcanti&layout=compact&hide_border=true&title_color=8204f8&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 <p align="center">
 <img  height="150em" width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoVictorCavalcanti&layout=compact&hide_border=true&&theme=dracula&icon_color=ff0101&title_color=8204f8&text_color=50d416&bg_color=0d1117" alt="JoaoVictorCavalcanti github stats" />
 </p>
