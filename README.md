@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-<img  height="150em" width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoVictorCavalcanti&layout=compact&hide_border=true&&theme=draculatitle_color=8204f8&text_color=#a626a6color=0d1117"/>
+<img  height="150em" width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoVictorCavalcanti&layout=compact&hide_border=true&&theme=dracula&icon_color=ff0101&title_color=8204f8&text_color=50d416&bg_color=0d1117" alt="JoaoVictorCavalcanti github stats" />
 </p>
 
 <div align="center">  
