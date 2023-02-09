@@ -4,6 +4,7 @@
 
 <p align="center">
 <img  height="150em" width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoVictorCavalcanti&layout=compact&hide_border=true&&theme=dracula&icon_color=ff0101&title_color=8204f8&text_color=50d416&bg_color=0d1117" alt="JoaoVictorCavalcanti github stats" />
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCavalcanti&show_icons=true&theme=dracula&hide_border=true&&theme=dracula&icon_color=ff0101&title_color=8204f8&text_color=50d416&bg_color=0d1117"/>
 </p>
 
 <div align="center">  
@@ -26,7 +27,7 @@
 ![Git-Hub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&Color=purple)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-
+  
 ### Studying in this moment:
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
@@ -42,6 +43,6 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaoVictorCavalcanti}/count.svg" /></p> 
 <br></div>
-  
-
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8204f8&height=120&section=footer"/>****
+  
