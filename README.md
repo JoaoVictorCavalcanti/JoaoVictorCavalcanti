@@ -39,6 +39,12 @@
 <div style="display: inline_block">
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
+
+<div style="display: inline_block">
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+
   
 ### Studying in this moment:
 ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=48&color=currentColor)
