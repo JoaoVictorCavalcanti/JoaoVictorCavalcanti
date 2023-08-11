@@ -18,7 +18,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-0D1117?style=for-the-badge&logo=LibreOffice&logoColor=gray)&nbsp;
 <div style="display: inline_block"><br/>
-  <img align="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+  <img align="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 </div>
 
 
