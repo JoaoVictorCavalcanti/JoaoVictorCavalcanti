@@ -31,6 +31,11 @@
 ![Python](https://icongr.am/devicon/python-original.svg?size=48&color=currentColor)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" />
 ![Mysql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=48&color=currentColor)
+
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 
 
