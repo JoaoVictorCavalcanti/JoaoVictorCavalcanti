@@ -17,11 +17,7 @@
 ### Tools:
 <div style="display: inline_block">
   <img align="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</div>
-<div style="display: inline_block"><br/>
   <img align="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-</div>
-<div style="display: inline_block"><br/>
   <img align="LibreOffice" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"/>
 </div>
 
