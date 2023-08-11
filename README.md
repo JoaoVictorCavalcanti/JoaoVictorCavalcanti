@@ -30,6 +30,7 @@
 ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=72&color=currentColor)
 ![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=72&color=currentColor)
 ![Python](https://icongr.am/devicon/python-original.svg?size=72&color=currentColor)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="72" height="72" />
 ![Mysql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=72&color=currentColor)
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 
