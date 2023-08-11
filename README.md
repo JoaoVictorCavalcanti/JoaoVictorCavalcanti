@@ -17,17 +17,22 @@
 ### Tools:
 <div style="display: inline_block">
   <img align="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img align="LibreOffice" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"/>
+  <img align="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <br>
+  <img align="LibreOffice" src="https://img.shields.io/badge/LibreOffice-white?style=for-the-badge&logo=LibreOffice&logoColor=black"/> 
+  <img align="udemy" src="https://img.shields.io/badge/Udemy-purple?style=for-the-badge&logo=Udemy&logoColor=white"/>
 </div>
-<img align="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+
+
+
 
 
 ### Other Knowledge:
 
 <div style="display: inline_block">
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white" />
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 
