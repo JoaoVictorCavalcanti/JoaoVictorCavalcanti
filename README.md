@@ -16,7 +16,6 @@
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="72" height="72" />
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-0D1117?style=for-the-badge&logo=LibreOffice&logoColor=gray)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-0D1117?style=for-the-badge&logo=Udemy&logoColor)&nbsp;
 
