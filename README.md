@@ -15,7 +15,7 @@
 -----------------------------------------------------
 
 ### Tools:
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
   ![LibreOffice](https://img.shields.io/badge/LibreOffice-0D1117?style=for-the-badge&logo=LibreOffice&logoColor=gray)&nbsp;
