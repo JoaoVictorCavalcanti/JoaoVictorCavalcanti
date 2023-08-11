@@ -38,15 +38,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" />
 ![Mysql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=48&color=currentColor)
 
-<div style="display: inline"><br/>
+<div style="display: inline_block"><br/>
   <img align="Mysql" src="https://img.shields.io/badge/MySQL-0000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 
-<div style="display: inline">
+<div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
-<div style="display: inline">
+<div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
