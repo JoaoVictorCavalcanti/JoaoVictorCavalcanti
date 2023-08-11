@@ -38,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" />
 ![Mysql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=48&color=currentColor)
 
-<div style="display: inline_block"><br/>
+<div style="display: inline"><br/>
   <img align="Mysql" src="https://img.shields.io/badge/MySQL-0000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
