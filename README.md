@@ -22,9 +22,8 @@
 
 ### Other Knowledge:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
-![Git-Hub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&Color=purple)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
