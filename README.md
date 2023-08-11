@@ -37,6 +37,9 @@
 ![Python](https://icongr.am/devicon/python-original.svg?size=48&color=currentColor)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" />
 ![Mysql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=48&color=currentColor)
+<div style="display: inline_block"><br/>
+  <img align="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
 
 <div style="display: inline_block"><br/>
