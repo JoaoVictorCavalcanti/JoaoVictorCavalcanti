@@ -39,7 +39,7 @@
 ![Mysql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=48&color=currentColor)
 
 <div style="display: inline_block"><br/>
-  <img align="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="Mysql" src="https://img.shields.io/badge/MySQL?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 
