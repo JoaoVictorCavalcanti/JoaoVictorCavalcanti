@@ -29,6 +29,7 @@
 ![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=15&color=currentColor)
 ![Python](https://icongr.am/devicon/python-original.svg?size=15&color=currentColor)
 ![Jupyter](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>)&nbsp;
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 
 
