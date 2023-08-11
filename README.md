@@ -16,7 +16,6 @@
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-0D1117?style=for-the-badge&logo=LibreOffice&logoColor=gray)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-0D1117?style=for-the-badge&logo=Udemy&logoColor)&nbsp;
 
