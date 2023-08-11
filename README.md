@@ -22,7 +22,7 @@
 ### Other Knowledge:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=25&color=currentColor)
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Windows](https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor)
   
 ### Studying in this moment:
 ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=45&color=currentColor)
