@@ -16,11 +16,9 @@
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117?style=for-the-badge&logo=sublime-text&logoColor=orange)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-0D1117?style=for-the-badge&logo=LibreOffice&logoColor=gray)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-0D1117?style=for-the-badge&logo=Udemy&logoColor)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad++-0D1117?style=for-the-badge&logo=notepad%2b%2b&logoColor=green)&nbsp;
 
 ### Other Knowledge:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
@@ -31,7 +29,6 @@
 ### Studying in this moment:
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 
