@@ -25,9 +25,9 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=55&color=currentColor)
-![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=55&color=currentColor)
-![Python](https://icongr.am/devicon/python-original.svg?size=41&color=currentColor)
+![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=15&color=currentColor)
+![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=15&color=currentColor)
+![Python](https://icongr.am/devicon/python-original.svg?size=15&color=currentColor)
 ![Jupyter](https://img.shields.io/badge/-jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=orange&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 
